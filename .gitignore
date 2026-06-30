@@ -5,7 +5,11 @@ build/
 dist/
 wheels/
 *.egg-info
+4.2.0
 
 # Virtual environments
 .venv
 .env
+
+#db
+test.db
