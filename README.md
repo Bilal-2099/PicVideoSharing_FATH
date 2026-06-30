@@ -34,8 +34,6 @@ Open your browser at `http://127.0.0.1:8000` to access the app.
 PicVideoSharing_FATH/
 │── main.py          # FastAPI entry point
 │── requirements.txt # Dependencies
-│── static/          # Uploaded photos & videos
-│── templates/       # HTML templates
 ```
 
 ## 🤝 Contributing
