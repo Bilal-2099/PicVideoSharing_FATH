@@ -1,4 +1,4 @@
-# PicVideoSharing_FATH
+# PicVideoSharing_FastAPI
 
 A simple demo social app built with **FastAPI** that allows users to upload and share photos and videos.
 
@@ -32,7 +32,7 @@ A simple demo social app built with **FastAPI** that allows users to upload and 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Bilal-2099/PicVideoSharing_FATH.git
+git clone https://github.com/Bilal-2099/PicVideoSharing_FastAPI.git
 cd PicVideoSharing_FATH
 pip install -r requirements.txt
 ```
